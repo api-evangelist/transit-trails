@@ -1,0 +1,49 @@
+{
+    "name": "Transit & Trails",
+    "description": "Transit and Trails connects you to parks and open spaces by helping you Find, Plan and Share your outdoor adventures. You can locate trailheads near you (or any location) and we help you get there on public transportation or get the directions you need to walk, bike, or drive there. You might try one of the many existing trips on the site or make a new one. You can then share your plans with a link for an email, an Evite or post the trip to Facebook and Twitter. After your hike, share pictures and your experience on Transit and Trails and join the community of people who care about and love exploring parks, trails and open spaces.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/transit-trails.png",
+    "tags": [
+        "have api",
+        "social",
+        "texts"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/transit-trails\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Transit & Trails",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/transit-trails.png",
+            "humanURL": "http:\/\/www.transitandtrails.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/transit-trails-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.transitandtrails.org\/api\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.transitandtrails.org\/api"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/transitandtrail"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.transitandtrails.org"
+        }
+    ]
+}
